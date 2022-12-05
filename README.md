@@ -1,1 +1,2 @@
-# Loan_Calculatoa simple website for calculating your loan. 
+# Loan_Calculator
+Simple website for calculating your loan. 
